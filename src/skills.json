@@ -1,0 +1,20 @@
+[
+  {
+    "skill": "Memes",
+    "level": "intermediate",
+    "color": "black",
+    "textColor": "white"
+  },
+  {
+    "skill": "Cats",
+    "level": "advanced",
+    "color": "red",
+    "textColor": "white"
+  },
+  {
+    "skill": "Trees",
+    "level": "beginner",
+    "color": "yellowgreen",
+    "textColor": "white"
+  }
+]
